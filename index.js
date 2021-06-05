@@ -1,6 +1,4 @@
-// SC NYA JANGAN DI JUAL BANG
-//MAKASIH DAH PAKE 
-// THANKS TO MHANKBARBAR AND ALL CREATOR BOT INDO 
+// das créditos puta
 
 //npm
 const qrcode = require("qrcode-terminal")
@@ -670,7 +668,7 @@ https://youtube.com/c/MrPato
 - *Velocidad :* ${sepid.toFixed(4)} Second
 - *Mi tiempo vivo:* ${runtem}
 - Prefix : 「 ${prefix} 」
-
+- Github : https://github.com/Mr-Pato/selfbot-pato
 ╭──┉↯ ꙅobᴎɒmoƆ ↯━─
 ├┉↯ *${prefix}off*
 ├┉↯ *${prefix}on*
